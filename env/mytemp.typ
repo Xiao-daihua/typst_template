@@ -31,20 +31,22 @@
 
   align(center)[
     #text(
-      size: 23pt,
+      size: 20pt,
     )[#title]
-    #v(0.5em)
+    #v(0.2em)
 
     #text(size: 13pt)[
       #author \
+      #v(0.1em) 
       #date
     ]
   ]
+  v(1em)
   
   if abstract != none {
     align(center)[
-        #strong[Abstract: ]
-        #text(size: 11pt)[#abstract]
+        #strong[Abstract]
+        #text(size: 11pt)[\ #abstract]
       ]
   }
 v(1.5em)
