@@ -14,7 +14,8 @@
   )
   set par(
     justify: true,
-    first-line-indent: 2em,
+    spacing: 1em,
+    first-line-indent: 1.5em,
   )
   set text(
     size: 11pt,
@@ -34,13 +35,12 @@
 
   align(center)[
     #text(
-      size: 20pt,
+      size: 18pt,
     )[#title]
     #v(0.2em)
 
-    #text(size: 13pt)[
+    #text(size: 12pt)[
       #author \
-      #v(0.1em)
       #date
     ]
   ]
