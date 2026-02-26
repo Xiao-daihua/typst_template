@@ -6,7 +6,7 @@
   author: [Yu Liu],
   abstract: [This is a template of Typst note],
 )
-Main Text
+Main Text 
 
 #include "doc/sec1.typ"
 

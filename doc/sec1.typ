@@ -9,3 +9,4 @@ I think that superman is great!!! Because he can fly and have super strength.
   $ F_G = 0 #text[for super man] = 0 quad M = 0 $
   This is an awsome theorem.
 ]
+
