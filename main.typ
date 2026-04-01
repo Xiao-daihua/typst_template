@@ -4,7 +4,7 @@
 #show: notetemp.with(
   title: [Template of Typst Note],
   author: [Yu Liu],
-  abstract: [This is a template of Typst note],
+  abstract: [This is a template of Typst note ],
 )
 Main Text 
 
