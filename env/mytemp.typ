@@ -32,16 +32,16 @@
     }
     set math.equation(numbering: "(1.1)")
     show: thmbox-init()
-
-    align(center)[
+ align(center)[
         #v(2em)
         #text(
             size: 18pt,
         )[#title]
-        #v(1.4em)
+        #v(0.5em)
 
-        #text(size: 14pt)[
+        #text(size: 13pt)[
             #author \
+      \
             #date
         ]
     ]
